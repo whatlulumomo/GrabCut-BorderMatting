@@ -1,0 +1,14 @@
+﻿  GCApplication.cpp
+f:\graphic\cvproject\opencv - gratcrub\opencv\Information.h(31): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  GrabCut.cpp
+GrabCut.cpp(135): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GrabCut.cpp(136): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+f:\graphic\cvproject\opencv - gratcrub\opencv\Information.h(31): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  81 of 753 functions (10.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OpencV.vcxproj -> F:\Graphic\CVproject\OpencV - gratcrub\x64\Release\OpencV.exe
+  OpencV.vcxproj -> F:\Graphic\CVproject\OpencV - gratcrub\x64\Release\OpencV.pdb (Full PDB)
